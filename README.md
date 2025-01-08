@@ -69,7 +69,7 @@ Technologies Used
 - Backend: Node.js, Express
 - Database: DataStax Astra DB
 - AI Workflow: LangFlow
-- Gemini API#
+- Gemini API
 
 #License
 This project is licensed under the [MIT License](LICENSE).
