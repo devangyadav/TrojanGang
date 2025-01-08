@@ -64,7 +64,7 @@ npm start
 └── README.md               # Project documentation
 ```
 
-Technologies Used
+# Technologies Used
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express
 - Database: DataStax Astra DB
